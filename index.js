@@ -7,7 +7,7 @@ const readFileSync = (filePath) => {
 }
 const watchFile = (filePath) => {
   fs.watchFile(filePath, () => {
-    mappingFile = readFileSync(filePath)
+    readFileSync(filePath)
   })
 }
 
