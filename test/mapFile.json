@@ -1,0 +1,7 @@
+{
+  "app": "xxx.app.js",
+  "vender": "xxx.vender.js",
+  "css": "xxx.css",
+  "/js/apply/name.js": "hhahah.js",
+  "img": "/img"
+}
